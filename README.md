@@ -7,7 +7,7 @@ Test CORS locally with curl and HTML &amp; Ajax
 curl -I -H "Origin: https://frontend.domain"  https://origintest.mydomain.com/
 ```
 
-Expected allow origin to check
+Expected allow origin header to check
 
 ```shell
 access-control-allow-origin
