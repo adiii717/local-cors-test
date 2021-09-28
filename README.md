@@ -1,6 +1,14 @@
 # local-cors-test
 Test CORS locally with curl and HTML &amp; Ajax
 
+## Browser base test
+
+You can update API in `ajax-api-call.js`
+```js
+var API="https://api.github.com"
+```
+if the cors working you will see response in the browser.
+
 ## Curl core test
 
 ```shell
