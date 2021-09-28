@@ -9,6 +9,8 @@ var API="https://api.github.com"
 ```
 if the cors working you will see response in the browser.
 
+![Browser sucess response](https://github.com/Adiii717/local-cors-test/blob/main/images/api-response.png)
+
 ## Curl core test
 
 ```shell
