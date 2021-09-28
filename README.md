@@ -7,6 +7,8 @@ You can update API in `ajax-api-call.js`
 ```js
 var API="https://api.github.com"
 ```
+#### CORS success response
+
 if the cors working you will see response in the browser.
 
 ![Browser sucess response](https://github.com/Adiii717/local-cors-test/blob/main/images/api-response.png)
