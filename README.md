@@ -13,6 +13,11 @@ if the cors working you will see response in the browser.
 
 ![Browser sucess response](https://github.com/Adiii717/local-cors-test/blob/main/images/api-response.png)
 
+#### CORS failure case
+
+if the backend has does not allow the origin it should block the request
+![Browser failure case](https://github.com/Adiii717/local-cors-test/blob/main/images/cors-failure-case.jpg)
+
 ## Curl core test
 
 ```shell
